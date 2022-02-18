@@ -8,7 +8,7 @@ navigationClose.addEventListener('click', () => {
     navigation.classList.remove('navigation_active');
 });
 
-const mute = aboba
+const mute =
 
 
 const sliderThumds = new Swiper('.slider-thumbs', {
